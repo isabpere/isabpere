@@ -26,11 +26,8 @@
 </p>
 
 ### `> HIGH SCORES`
+<p> <img height="165" src="profile/stats.svg" alt="GitHub stats" /> <img height="165" src="profile/top-langs.svg" alt="Top languages" /> </p>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isabpere&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d4a72c&icon_color=d4a72c&text_color=8b949e&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabpere&layout=compact&hide_border=true&bg_color=0d1117&title_color=d4a72c&text_color=8b949e" alt="Top languages" />
-</p>
 
 ### `> LEVEL 1: CONTRIBUTIONS`
 
