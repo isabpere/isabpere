@@ -32,5 +32,5 @@
 ### `> LEVEL 1: CONTRIBUTIONS`
 
 <p align="center">
-  <img src="game.gif" alt="Space shooter game built from my GitHub contribution graph" />
+  <img src="game.gif" width="70%" alt="Space shooter game built from my GitHub contribution graph" />
 </p>
