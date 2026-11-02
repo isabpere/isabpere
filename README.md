@@ -34,5 +34,3 @@
 <p align="center">
   <img src="game.gif" alt="Space shooter game built from my GitHub contribution graph" />
 </p>
-
-<p align="center"><sub>INSERT COIN TO CONTINUE ▮</sub></p>
